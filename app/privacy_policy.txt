@@ -1,0 +1,47 @@
+Privacy Policy for Custom GPT Application
+
+
+1. Introduction
+
+Welcome to our Custom GPT Application. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle your personal data, your privacy rights, and how the law protects you.
+
+
+2. Data We Collect
+
+We may collect, use, store, and transfer different kinds of personal data about you, which we have grouped together as follows:
+
+Identity Data includes first name, last name, username, or similar identifier.
+Contact Data includes email address and telephone numbers.
+Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this application.
+
+
+3. How We Use Your Data
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+Where we need to perform the contract we are about to enter into or have entered into with you.
+Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+Where we need to comply with a legal obligation.
+
+
+4. Data Security
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used, or accessed in an unauthorized way, altered, or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors, and other third parties who have a business need to know.
+
+
+5. Your Legal Rights
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. You have the right to:
+
+Request access to your personal data.
+Request correction of your personal data.
+Request erasure of your personal data.
+Object to processing of your personal data.
+Request restriction of processing your personal data.
+Request transfer of your personal data.
+Right to withdraw consent.
+
+
+6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
